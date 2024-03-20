@@ -1,10 +1,6 @@
 # ask-him-gen-ai-nestjs-reactjs
 This application has been curated for organizations or individual who want to built their chatbot and have 1st person responses. The prompt written will be trained for some special scenarios and will be behaving likewise. The users will not feel like they are talking to a bot but a human instead.
 
-
-
-
-
 ## JustAskHim App (BibleGpt)
 
 ## Table of Contents
@@ -37,7 +33,6 @@ To get started with the JustAskHim App, follow these steps:
 
 Make sure you have the following installed:
 
-- A modern web browser (e.g., Chrome, Firefox, Safari)
 - An internet connection (for fetching external dependencies)
 - Insatll Node.js [See this](https://www.guru99.com/download-install-node-js.html) for installation steps.
 - Install Mysql Database.
